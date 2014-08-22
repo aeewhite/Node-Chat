@@ -1,0 +1,11 @@
+{
+  "name": "NodeChat",
+  "description": "Simple Chat made with WebSockets and WebRTC",
+  "version": "1.0.0",
+  "dependencies": {
+    "socket.io": "0.9.x",
+    "jade": "x.x",
+    "express": "3.x",
+    "forever": "x.x"
+  }
+}
